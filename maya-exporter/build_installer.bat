@@ -1,0 +1,1 @@
+odin build installer_src -out:install.exe
